@@ -1,0 +1,17 @@
+{
+  "name": "sociabuzz-rest-api",
+  "version": "1.0.0",
+  "description": "sociabuzz api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Willoizcitron",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.18.1",
+    "puppeteer": "^13.7.0",
+    "request": "^2.88.2"
+  }
+}
